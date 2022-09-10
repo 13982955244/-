@@ -1,0 +1,8 @@
+
+
+POST https://study.duyiedu.com/api/user/reg
+Content-Type: application/json
+
+{
+"loginId": "xiaodin", "nickname": "小叮", "loginPwd": "123123"
+ }
